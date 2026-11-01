@@ -15,7 +15,7 @@ Il progetto include l'implementazione del modello di **Portafoglio di Markowitz*
 
 ---
 
-## 📁 Struttura della Repository
+## 📁 Struttura della cartela Markowitz
 
 | File / Risorsa | Descrizione |
 | :--- | :--- |
