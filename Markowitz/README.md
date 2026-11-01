@@ -1,5 +1,3 @@
-Repository dedicata alle esercitazioni e analisi di **Finanza Computazionale**, sviluppata da **[@marco-sacchetti](https://github.com/marco-sacchetti)**.
-
 Il progetto include l'implementazione del modello di **Portafoglio di Markowitz**, il calcolo e la tracciatura della **Capital Allocation Line (CAL)** con risk-free rate, l'individuazione del **Portafoglio di Sharpe**, e l'applicazione di un **Modello Multi-Fattoriale (S&P 500 e Brent)** per la selezione ottima di titoli azionari.
 
 ---
